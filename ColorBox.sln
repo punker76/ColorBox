@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorBox", "ColorBox\ColorBox.csproj", "{40085232-ACED-4CBE-945B-90BA8153C151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorBoxTest", "ColorBoxTest\ColorBoxTest.csproj", "{A3045E2A-2AF6-4C86-A222-8B0C103EEEA1}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs21
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ColorBox\\ColorBox.csproj
+		SccProjectName1 = ColorBox
+		SccLocalPath1 = ColorBox
+		SccProjectUniqueName2 = ColorBoxTest\\ColorBoxTest.csproj
+		SccProjectName2 = ColorBoxTest
+		SccLocalPath2 = ColorBoxTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40085232-ACED-4CBE-945B-90BA8153C151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40085232-ACED-4CBE-945B-90BA8153C151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40085232-ACED-4CBE-945B-90BA8153C151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40085232-ACED-4CBE-945B-90BA8153C151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3045E2A-2AF6-4C86-A222-8B0C103EEEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3045E2A-2AF6-4C86-A222-8B0C103EEEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3045E2A-2AF6-4C86-A222-8B0C103EEEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3045E2A-2AF6-4C86-A222-8B0C103EEEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
